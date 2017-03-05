@@ -1,1 +1,1 @@
-# reactplate
+# webpack-playlist
